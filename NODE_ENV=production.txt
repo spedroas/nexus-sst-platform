@@ -1,0 +1,9 @@
+NODE_ENV=production
+SUPABASE_URL=https://qaenunzxxinczrovfehg.supabase.co
+SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFhZW51bnp4eGluY3pyb3ZmZWhnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTM5OTk1NDEsImV4cCI6MjA2OTU3NTU0MX0.nYPH6MemAtmLJvV2v9nR0owJdkqzE7JmSWNWPbCFk3s
+JWT_SECRET=minha-chave-super-secreta-jwt-123!
+FRONTEND_URLS=https://sua-app-admin.vercel.app,https://sua-app-public.netlify.app,https://nexus-sst-platform.vercel.app/
+CLOUDINARY_CLOUD_NAME=nexus-sst
+CLOUDINARY_API_KEY=562839345181617
+CLOUDINARY_API_SECRET=3-iUq6T72s6nuyDKqFfOAayv4ho
+RESEND_API_KEY=re_EdXH4wjS_QGBhdSjKDLyAB2Komvo2oSm5
